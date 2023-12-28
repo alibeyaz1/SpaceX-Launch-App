@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B89D3370-3D95-4513-8B21-E4E6DF9DDAEA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "638B2C9D-8DCA-41F3-9D23-A8CC57C13839"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ali-beyaz/Scenes/LaunchesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "segmentChanged(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EDC2BCE-220A-41FF-AC00-C0251069E23A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ali-beyaz/Scenes/LaunchDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "launchStatus()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EDC2BCE-220A-41FF-AC00-C0251069E23A - ce8d88b02967fcc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in ali_beyaz.LaunchDetailsVC.launchStatus() -&gt; ()"
+                  moduleName = "ali-beyaz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibeyaz-14/Documents/Swift%20Projeler/ali-beyaz/ali-beyaz/Scenes/LaunchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "4EDC2BCE-220A-41FF-AC00-C0251069E23A - ce8d88b02967fcc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in ali_beyaz.LaunchDetailsVC.launchStatus() -&gt; ()"
+                  moduleName = "ali-beyaz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibeyaz-14/Documents/Swift%20Projeler/ali-beyaz/ali-beyaz/Scenes/LaunchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B73A0BF8-C9AF-41C2-A697-EE6EBE39D89A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ali-beyaz/Scenes/LaunchDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "launchStatus()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B73A0BF8-C9AF-41C2-A697-EE6EBE39D89A - bbfdce16cd51f2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ali_beyaz.LaunchDetailsVC.launchStatus() -&gt; ()"
+                  moduleName = "ali-beyaz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibeyaz-14/Documents/Swift%20Projeler/ali-beyaz/ali-beyaz/Scenes/LaunchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "B73A0BF8-C9AF-41C2-A697-EE6EBE39D89A - 4dde11e7dd9891eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SnapKit.ConstraintMaker) -&gt; () in ali_beyaz.LaunchDetailsVC.launchStatus() -&gt; ()"
+                  moduleName = "ali-beyaz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibeyaz-14/Documents/Swift%20Projeler/ali-beyaz/ali-beyaz/Scenes/LaunchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
